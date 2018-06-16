@@ -1,0 +1,12 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "particle": "ar:blocks/refforge",
+        "up": "ar:blocks/refforgetb",
+        "down": "ar:blocks/refforgetb",
+        "north": "ar:blocks/lrefforgef",
+        "east": "ar:blocks/refforge",
+        "south": "ar:blocks/refforge",
+        "west": "ar:blocks/refforge"
+    }
+}

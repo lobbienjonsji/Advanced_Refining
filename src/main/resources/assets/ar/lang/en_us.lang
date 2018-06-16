@@ -1,0 +1,6 @@
+//Items
+item.unrefined_iron.name=Unrefined Iron Ingot
+
+//Blocks
+tile.unrefined_iron_block.name=Block of unrefined Iron
+tile.refining_forge=Refining Forge

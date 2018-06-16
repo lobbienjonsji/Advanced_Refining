@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "ar:unrefined_iron_block"
+    },
+ 
+    {
+      "item": "minecraft:flint"
+    },
+     {
+      "item": "minecraft:flint"
+    },
+     {
+      "item": "minecraft:flint"
+    },
+     {
+      "item": "minecraft:flint"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "ar:unrefined_iron",
+        "count": 8
+    }
+}

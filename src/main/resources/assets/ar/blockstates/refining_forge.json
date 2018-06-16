@@ -1,0 +1,13 @@
+{
+    "variants": 
+    {
+        "burning=false,facing=north": { "model": "ar:refining_forge" },
+        "burning=false,facing=east": { "model": "ar:refining_forge", "y": 90 },
+        "burning=false,facing=south": { "model": "ar:refining_forge", "y": 180 },
+        "burning=false,facing=west": { "model": "ar:refining_forge", "y": 270 },
+        "burning=true,facing=north": { "model": "ar:lit_refining_forge" },
+        "burning=true,facing=east": { "model": "ar:lit_refining_forge", "y": 90 },
+        "burning=true,facing=south": { "model": "ar:lit_refining_forge", "y": 180 },
+        "burning=true,facing=west": { "model": "ar:lit_refining_forge", "y":270  }
+    }
+}

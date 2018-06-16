@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "III",
+        "I I",
+        "III"
+    ],
+   
+    "key":
+    {
+        "I":
+        {
+            "item": "ar:unrefined_iron"
+        }
+    },
+   
+    "result":
+    {
+        "item": "ar:unrefined_iron_block",
+        "count": 1
+    }
+}
